@@ -3,7 +3,7 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import './App.css';
 
 import Home from './Routes/Home';
-import School from './Routes/Home';
+import School from './Routes/School';
 
 // @flow
 class App extends Component {
