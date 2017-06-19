@@ -8,8 +8,11 @@
     "react-router-dom": "^4.1.1"
   },
   "devDependencies": {
+    "enzyme": "^2.8.2",
     "flow-bin": "^0.48.0",
-    "react-scripts": "1.0.7"
+    "jest-enzyme": "^3.2.0",
+    "react-scripts": "1.0.7",
+    "react-test-renderer": "^15.6.1"
   },
   "scripts": {
     "start": "react-scripts start",
